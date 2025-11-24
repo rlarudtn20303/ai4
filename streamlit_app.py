@@ -74,10 +74,10 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
-    labels[0] : ["중국식 냉면은 맛있어"], "images" : ["https://item.elandrs.com/upload/prd/orgimg/786/2107100786_0000001.jpg?w=750&h=&q=100"]},
-    labels[1] : ["짜장면은 맛있어"], "images" : ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcX5Bw2fofxtxW2xBYE1JhUXXh8mBnC8W9vQ&s"]},
-    labels[2] : ["짬뽕은 맛있어"], "images" : ["https://noodleplanet.co.kr/wp-content/uploads/2025/04/webzine-13-story-5-6.jpg"]},
-    labels[3] : ["탕수육은 맛있어"], "images" : ["https://blog.kakaocdn.net/dna/qnIz2/btqSdtiK7C4/AAAAAAAAAAAAAAAAAAAAAK_eDgChgNlbA3DwDL3Rhp3zyE68j5YgxkTq4Zz6RRN5/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1764514799&allow_ip=&allow_referer=&signature=IgQS1EsJodJN9xYMyJB6awE7Ae8%3D"]},
+    labels[0] : {"texts" : ["중국식 냉면은 맛있어"], "images" : ["https://item.elandrs.com/upload/prd/orgimg/786/2107100786_0000001.jpg?w=750&h=&q=100"]},
+    labels[1] : {"texts" : ["짜장면은 맛있어"], "images" : ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcX5Bw2fofxtxW2xBYE1JhUXXh8mBnC8W9vQ&s"]},
+    labels[2] : {"texts" : ["짬뽕은 맛있어"], "images" : ["https://noodleplanet.co.kr/wp-content/uploads/2025/04/webzine-13-story-5-6.jpg"]},
+    labels[3] : {"texts" : ["탕수육은 맛있어"], "images" : ["https://blog.kakaocdn.net/dna/qnIz2/btqSdtiK7C4/AAAAAAAAAAAAAAAAAAAAAK_eDgChgNlbA3DwDL3Rhp3zyE68j5YgxkTq4Zz6RRN5/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1764514799&allow_ip=&allow_referer=&signature=IgQS1EsJodJN9xYMyJB6awE7Ae8%3D"]},
 
 }
 
